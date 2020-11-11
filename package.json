@@ -1,0 +1,26 @@
+{
+  "name": "Chat-Application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afw821/Chat-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afw821/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/afw821/Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "randomcolor": "^0.6.2",
+    "socket.io": "^3.0.1",
+    "uuid": "^8.3.1"
+  }
+}
